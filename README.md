@@ -1,5 +1,5 @@
 # doc-tools
-The repository contains demonstration projects for software documentation
+The repository contains demonstration projects for software documentation.
 
 ## Sample Honkit Project
 
