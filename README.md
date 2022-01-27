@@ -10,3 +10,5 @@ Honkit is a fork of GitBook, an excellent tool for creating documentation, but i
 The project [honkit-simple-project](https://github.com/Olman62/doc-tools/tree/main/honkit-sample-project) is simple and simultaneously contains the main features of Honkit. In the project demonstrated standard Honkit project structure and multi-lingual feature.
 
 To learn how to install Honkit on your computer and how to create a simple project, follow the [link](https://www.expknow.com/install-gitbook/).
+
+> Note: In the referred article, you can see how to make the Honkit project step-by-step. A simple way to do this is to download the folder **honkit-simple-project** to your computer, then run the described CLI commands in that folder.
