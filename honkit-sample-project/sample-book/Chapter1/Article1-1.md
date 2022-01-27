@@ -1,6 +1,6 @@
 # Article 1 In Chapter 1
 
-This article 1 in the chapter 1.
+This is article 1 in the chapter 1.
 
 {% method %}
 {% sample lang="cs" %}
